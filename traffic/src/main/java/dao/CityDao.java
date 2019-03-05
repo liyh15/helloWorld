@@ -119,8 +119,4 @@ public class CityDao {
 		}
 		return 0;
      }
-	public static void main(String[] args) {
-		CityDao cityDao = new CityDao();
-		System.out.println(cityDao.getCityIdByName("–Ï÷›"));
-	}
 }
